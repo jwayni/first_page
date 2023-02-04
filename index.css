@@ -15,7 +15,7 @@ body {
     font-family: 'PT Sans', sans-serif;
     font-size: 21px;
     line-height: 1.6;
-    background: #1A1E26;
+    background: #810047;
     color: #fff;
 }
 
@@ -39,7 +39,7 @@ h2 span {
 }
 
 a {
-    color: #3669C9;
+    color: #6ece00;
 }
 
 a:hover,
@@ -96,7 +96,7 @@ section {
 }
 
 .accent-bg {
-    background-color: #3669C9;
+    background-color: rgb(128, 77, 0);
 }
 
 .accent-bg .btn {
